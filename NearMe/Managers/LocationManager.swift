@@ -28,4 +28,3 @@ extension LocationManager: CLLocationManagerDelegate {
         self.location = location
     }
 }
-
